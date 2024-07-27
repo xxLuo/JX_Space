@@ -34,7 +34,7 @@ DouBan君霄：<https://www.douban.com/group/741053/>
 [浙百深情三部曲之👌](https://www.douban.com/group/topic/301176107)
 
 
-* [君霄新粉入坑补档建议楼](src/douban/本组君霄新粉入坑补档建议楼.html)
+* [君霄新粉入坑补档建议楼](src/本组君霄新粉入坑补档建议楼.html)
 
 
 ---
@@ -47,7 +47,7 @@ DouBan君霄：<https://www.douban.com/group/741053/>
 
 善于使用 `Ctrl + f`
 
-在线阅读地址：https://rodert.github.io/JavaPub-Interview/
+在线阅读地址：https://xxluo.github.io/douban/
 
 
 
