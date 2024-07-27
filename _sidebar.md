@@ -1,20 +1,23 @@
 - [lyxwaclj](/)
 * [君霄新粉入坑补档建议楼](src/本组君霄新粉入坑补档建议楼.html)
-* [最少必要面试题](/)
-    * [【Java基础】-10道不得不会的Java基础面试题](src/willbe/10道不得不会的Java基础面试题.md)
-    * [【Java并发】-10道不得不会的Java并发基础面试题](src/willbe/10道不得不会的Java并发基础面试题.md)
-    * [【JVM】-10道不得不会的JVM面试题](src/willbe/10道不得不会的JVM面试题.md)
-    * [【MySQL】-10道不得不会的MySQL基础面试题](src/willbe/10道不得不会的MySQL基础面试题.md)
-    * [【ElasticSearch】-10道不得不会的ElasticSearch面试题](src/willbe/10道不得不会的ElasticSearch面试题.md)
-	* [【Spring】-10道不得不会的Spring面试题](src/willbe/10道不得不会的Spring基础面试题.md)
-	* [【Redis】-10道不得不会的Redis面试题](src/willbe/10道不得不会的Redis基础面试题.md)
-    * [【Zookeeper】-10道不得不会的Zookeeper面试题](src/willbe/10道不得不会的Zookeeper面试题.md)
-    * [【SpringBoot】-10道不得不会的SpringBoot面试题](src/willbe/10道不得不会的SpringBoot面试题.md)
-    * [【MyBatis】-10道不得不会的MyBatis面试题](src/willbe/10道不得不会的MyBatis面试题.md)
-    * [【kafka】-10道不得不会的kafka面试题](src/willbe/10道不得不会的kafka面试题.md)
-    * [【JavaEE】-10道不得不会的JavaEE面试题](src/willbe/10道不得不会的JavaEE面试题.md)
-    * [【Docker】-10道不得不会的Docker面试题](src/willbe/10道不得不会的Docker面试题.md)
-    * [【缓存】-10道不得不会的缓存面试题](src/willbe/10道不得不会的缓存面试题.md)
+* [分享一下你们觉得真的do过的感觉的瞬间或物料吧](/)
+    * [第1页](src/do/do-1.html)
+    * [第2页](src/do/do-2.html)
+    * [第3页](src/do/do-3.html)
+    * [第4页](src/do/do-4.html)
+    * [第5页](src/do/do-5.html)
+    * [第6页](src/do/do-6.html)
+    * [第7页](src/do/do-7.html)
+    * [第8页][缺]
+    * [第9页](src/do/do-9.html)
+    * [第10页](src/do/do-10.html)
+    * [第11页][缺]
+    * [第12页][缺]
+    * [第13页](src/do/do-13.html)
+    * [第14页](src/do/do-14.html)
+    * [第15页](src/do/do-15.html)
+    * [第16页](src/do/do-16.html)
+    * [第17页](src/do/do-17.html)
 
 
 
