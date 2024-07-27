@@ -8,7 +8,7 @@
 
 DouBan君霄：<https://www.douban.com/group/741053/>
 
-想进组的看这里：<https://www.douban.com/group/topic/305929452/>
+
 
 
 ---
