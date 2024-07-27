@@ -54,7 +54,6 @@ DouBan君霄：<https://www.douban.com/group/741053/>
     * [第17页](src/do/do-17.html)
 
 
----
 
 君霄宇宙，欢迎你的到来~
 
