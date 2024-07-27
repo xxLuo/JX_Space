@@ -45,7 +45,7 @@ DouBan君霄：<https://www.douban.com/group/741053/>
 ---
 
 
-善于使用 `Ctrl + f`
+
 
 在线阅读地址：https://xxluo.github.io/douban/
 
