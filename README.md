@@ -63,7 +63,7 @@ DouBan君霄：<https://www.douban.com/group/741053/>
 
 
 
-在线阅读地址：https://xxluo.github.io/douban/
+在线阅读地址：https://xxluo.github.io/JX_Space/
 
 
 
