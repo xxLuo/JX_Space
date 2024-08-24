@@ -24,6 +24,9 @@
       homepage: 'README.md',
       // coverpage: true,//封面
       loadSidebar: true,//开启侧边栏
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
       loadNavbar: false, // 加载导航栏
       auto2top: true,//切换页面后是否自动跳转到页面顶部
       search: {
@@ -67,7 +70,7 @@
   <!-- 导航栏 -->
   <script src="./docsify.min.js"></script>
   <!-- 字数统计 -->
-  <script src="./le.js"></script>
+  <script src="./countable.js"></script>
   <!-- 图片缩放 -->
   <script src="./zoom-image.js"></script>
   <!-- //侧边栏箭头 -->
